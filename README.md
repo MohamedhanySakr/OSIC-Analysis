@@ -8,8 +8,8 @@ Imagine one day, your breathing became consistently labored and shallow. Months 
 
 ### In this repo i will show you analysis for the OSIC kaggle competition data
 # First
-## I used google colab in this project as it provide a free GPU 
-## I used Kaggle API to get the dataset on my Colab Notebook
+I used google colab in this project as it provide a free GPU 
+I used Kaggle API to get the dataset on my Colab Notebook
 
 ## Data is so big so you can download it from the link below
 https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/data
